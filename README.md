@@ -1,1 +1,1 @@
-# Text-Length-Prompt
+This is similar to the twitter text prompt that shows how many characters are remaing.
